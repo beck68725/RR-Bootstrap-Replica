@@ -1,4 +1,7 @@
 import './App.css';
+import {Background} from './Background'
+import {Navbar} from './Navbar'
+import {Listings} from './Listings'
 
 function App() {
   return (
